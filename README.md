@@ -22,7 +22,7 @@ Mail→[mikkun5215@gmail.com](mikkun5215@gmail.com)
 
 Univercity Mail→[s2322027@stu.musashino-u.ac.jp](s2322027@stu.musashino-u.ac.jp)
 
-## Events
+## Events:
 | イベント参加日 | イベント名 | 制作物 |
 |--------|--------|--------|
 | 2023/12 | 技育CAMPマンスリーハッカソン vol.12 | 開発経験共有SNS<br/> Exvelop |
@@ -31,8 +31,8 @@ Univercity Mail→[s2322027@stu.musashino-u.ac.jp](s2322027@stu.musashino-u.ac.j
 | 2024/03 | 関西ビギナーズハッカソン vol.3 |  |
 | 2024/03 | Open Hack U 2024 Osaka |  |
 
-## My Qiita
+## My Qiita:
 [@mikkun5215](https://qiita.com/mikkun5215)
 
-## My Zenn
+## My Zenn:
 [@mikkun5215](https://zenn.dev/mikkun5215)
