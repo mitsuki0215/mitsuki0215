@@ -30,9 +30,3 @@ Univercity Mail→[s2322027@stu.musashino-u.ac.jp](s2322027@stu.musashino-u.ac.j
 | 2024/02 | 技育CAMPマンスリーハッカソン vol.14 | バーコードによる本管理アプリ<br/> e-本棚 |
 | 2024/03 | 関西ビギナーズハッカソン vol.3 |  |
 | 2024/03 | Open Hack U 2024 Osaka |  |
-
-## My Qiita:
-[@mikkun5215](https://qiita.com/mikkun5215)
-
-## My Zenn:
-[@mikkun5215](https://zenn.dev/mikkun5215)
