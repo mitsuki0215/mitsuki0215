@@ -28,5 +28,4 @@ Univercity Mail→[s2322027@stu.musashino-u.ac.jp](s2322027@stu.musashino-u.ac.j
 | 2023/12 | 技育CAMPマンスリーハッカソン vol.12 | 開発経験共有SNS<br/> Exvelop |
 | 2024/01 | 技育CAMPマンスリーハッカソン vol.13 | Amazonトレンド解析<br/> Amatre |
 | 2024/02 | 技育CAMPマンスリーハッカソン vol.14 | バーコードによる本管理アプリ<br/> e-本棚 |
-| 2024/03 | 関西ビギナーズハッカソン vol.3 |  |
-| 2024/03 | Open Hack U 2024 Osaka |  |
+| 2024/03 | 関西ビギナーズハッカソン vol.3 | お題による動画投稿サービス<br/> Catee |
