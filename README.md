@@ -18,6 +18,8 @@ Twitter→[@mikkun__5215](https://twitter.com/mikkun__5215)
 
 Instagram→[@mikkun__5215](https://www.instagram.com/mikkun__5215/)
 
+CoPalette→[mikkun__5215](https://www.copalette.app/id/mikkun__5215)
+
 Mail→[mikkun5215@gmail.com](mikkun5215@gmail.com)
 
 Univercity Mail→[s2322027@stu.musashino-u.ac.jp](s2322027@stu.musashino-u.ac.jp)
